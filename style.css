@@ -61,7 +61,6 @@ body {
 .cards {
     display: flex;
     align-items: center;
-    /* max-width: 920px; */
     padding: 0 16px;
 }
 
@@ -69,7 +68,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: start;
-    max-width: 310px;
+    max-width: 320px;
     padding: 64px 40px 64px 36px;
 }
 
